@@ -1,0 +1,35 @@
+[
+    {
+        "username": "tech_guru",
+        "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e",
+        "features": [
+            "AI Developer",
+            "Full-Stack Engineer",
+            "Cloud Enthusiast"
+        ],
+        "views": 12450,
+        "disc": "A passionate technology expert specializing in artificial intelligence, full-stack development, and cloud solutions. Dedicated to building scalable applications that solve real-world challenges and improve user experiences across multiple digital platforms effectively."
+    },
+    {
+        "username": "creative_mind",
+        "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+        "features": [
+            "UI/UX Designer",
+            "Brand Strategist",
+            "Illustrator"
+        ],
+        "views": 9870,
+        "disc": "A creative designer focused on crafting visually engaging user experiences, strong brand identities, and meaningful illustrations. Skilled at transforming concepts into compelling digital interfaces that resonate with users and enhance product value consistently."
+    },
+    {
+        "username": "code_master",
+        "image": "https://images.unsplash.com/photo-1518773553398-650c184e0bb3",
+        "features": [
+            "Backend Developer",
+            "API Architect",
+            "Database Engineer"
+        ],
+        "views": 15680,
+        "disc": "An experienced backend engineer with deep expertise in APIs, system architecture, and databases. Passionate about building high-performance, secure, and reliable backend systems that support complex applications at scale with long-term maintainability."
+    }
+]
